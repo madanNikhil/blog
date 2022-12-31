@@ -1,0 +1,2 @@
+# blog
+ blogging FastAI journey
