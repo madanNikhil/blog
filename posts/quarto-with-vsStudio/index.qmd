@@ -1,0 +1,6 @@
+---
+title: "How to set up a blog using Quarto with VS Code"
+author: "Nikhil"
+date: "2023-01-01"
+categories: [how-to]
+---

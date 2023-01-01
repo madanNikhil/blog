@@ -1,0 +1,12 @@
+---
+title: "Sandbox post"
+author: "Nikhil"
+date: "2023-01-01"
+categories: [news]
+image: "thumbnail.jpg"
+draft: true
+---
+
+This is the sandbox post without code. Remove change draft conditional in YML section above to make in publishable.
+
+
