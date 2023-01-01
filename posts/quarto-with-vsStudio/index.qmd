@@ -1,5 +1,5 @@
 ---
-title: "How to set up a blog using Quarto with VS Code"
+title: "How to set up a blog using Quarto with VS Code and GitHub Desktop "
 author: "Nikhil"
 date: "2023-01-01"
 categories: [how-to]
