@@ -4,3 +4,7 @@ author: "Nikhil"
 date: "2023-01-01"
 categories: [how-to]
 ---
+
+
+Step 1: Add "Quarto" extension to VS-Code
+Step 2: Clone 
